@@ -15,6 +15,12 @@ The 2018 version has a C# UI and Node.JS network system, which is deeply reliant
 
 :: Put Folders in top lever C drive
 
+:: Set up SQL user rights 
+
+:: Edit *.pl files with IP Address - Username - Password - port
+
+:: Set up ODBC
+
 # CPAN Modules Dependencies
 You will have to install CPAN modules including 2d barcode matrix... you can find the modules in the source code or if you are feeling lazy during runtime debugging 
 
