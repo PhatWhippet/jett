@@ -10,7 +10,9 @@ The 2018 version has a C# UI and Node.JS network system, which is deeply reliant
 ##### Set Up Begins
 
 :: Install Strawberry Perl *** see CPAN Modules Dependencies ***
+
 :: In SSMS run (CREATE.SQL)
+
 :: Put Folders in top lever C drive
 
 # CPAN Modules Dependencies
