@@ -22,7 +22,7 @@ The 2018 version has a C# UI and Node.JS network system, which is deeply reliant
 :: Set up ODBC
 
 # CPAN Modules Dependencies
-You will have to install CPAN modules including 2d barcode matrix... you can find the modules in the source code or if you are feeling lazy during runtime debugging 
+You will have to install CPAN modules including 2d barcode matrix... you can find the modules in the source code or if you are feeling lazy install during runtime.
 
 # Create.SQL
 This will create the data structure, you will need to create user and update source files accordingly 
