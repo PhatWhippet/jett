@@ -3,7 +3,7 @@ Automated VDP data 2 PDF document system... creates variable documents automatic
 Perl based Variable Document Printing, Jett offers the ability to automate your company's on demand printing documents.
 
 # Runs on MongoDB, MySQL and SQL Server.
-The version currently is for SQL Server but over the next view months I will release the MongoDB and MySQL flavours.
+The version currently is for SQL Server but has ran in MongoDB and MySQL, over the next view months I will release the MongoDB and MySQL flavours.
 
 # CPAN Modules Dependencies
 You will have to install CPAN modules including 2d barcode matrix... you can find the modules in the source code or if you are feeling lazy during runtime debugging 
