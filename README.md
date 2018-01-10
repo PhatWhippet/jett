@@ -1,6 +1,6 @@
 # jett (simplified version)
 Automated VDP data 2 PDF document system... creates variable documents automatically (OTF), all documents any shape and size. 
-Perl based Variable Document Printing, Jett offers the ability to automate your company's on demand printing documents.
+Perl based Variable Document Printing, Jett offers the ability to automate your company's on print demand documents.
 
 # Background
 This was the first version I created in early 2015 and has been diluted from part of a much larger software based on Node.JS, C# and Perl... and has been recently simplified further, including  simplifying the SQL table structure and removing the relationships, so it can be easily used as a blank canvase for people with external VDP requirements.
