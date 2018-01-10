@@ -5,7 +5,7 @@ Perl based Variable Document Printing, Jett offers the ability to automate your 
 # Background
 This was the first version I created in early 2015 and has been diluted from part of a much larger software project based on Node.JS, C# and Perl... and has been recently simplified further, including  simplifying the SQL table structure and removing the original architecture, so it can be easily used as a blank canvas for people with external VDP requirements.
 
-Many clients liked this solution as it didn't tie them to a CRM or other "off the shelf" solutions that they may become locked in to antiquated or surplus to requirement solutions.
+Many clients liked this solution as it didn't tie them to a CRM or other "off the shelf" solutions that they may become locked in to, antiquated or surplus to requirement solutions.
 
 
 ##### Set Up Begins
